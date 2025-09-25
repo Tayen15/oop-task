@@ -2,7 +2,7 @@ package pbo;
 
 public class Piramid {
      public static void main(String[] args) {
-          int tinggi = 12;
+          int tinggi = 4;
 
           System.out.println("Piramid dengan tinggi " + tinggi + " baris:");
           System.out.println();
