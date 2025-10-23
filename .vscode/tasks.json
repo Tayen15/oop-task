@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Transaksi",
+			"type": "shell",
+			"command": "javac -cp app/src/main/java app/src/main/java/oop/Bank.java app/src/main/java/oop/Transaksi.java && java -cp app/src/main/java oop.Transaksi",
+			"group": "build"
+		}
+	]
+}
