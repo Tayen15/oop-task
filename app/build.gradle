@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'pertemuan6.abstrak.SuaraHewan'
+    mainClass = 'pertemuan7.assets.KumpulanAsset'
 }
 
 tasks.named('test') {
